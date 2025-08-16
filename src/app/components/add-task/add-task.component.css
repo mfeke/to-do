@@ -1,0 +1,17 @@
+.text {
+  font-size: 18px;
+  font-weight: 500;
+}
+.span {
+  font-size: 16px;
+}
+.round {
+  border-radius: 10px;
+}
+
+.btn-primary {
+  background-color: rgba(38, 161, 205, 0.5); /* 50% opaque blue */
+  border: none;
+  border-radius: 20px;
+  font-size: 15px;
+}
