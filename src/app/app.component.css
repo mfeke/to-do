@@ -1,0 +1,14 @@
+.bold{
+    font-weight: bold;
+}
+.pic{
+  width: 43px;
+  height: 43px;
+}
+.text{
+  font-size: 20px;
+  font-weight: bold;
+}
+.top-shadow {
+  box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+}
