@@ -1,14 +1,27 @@
-.bold{
-    font-weight: bold;
+.bold {
+  font-weight: bold;
 }
-.pic{
+.pic {
   width: 43px;
   height: 43px;
 }
-.text{
+.text {
   font-size: 20px;
   font-weight: bold;
 }
 .top-shadow {
   box-shadow: 0 -2px 4px rgba(0, 0, 0, 0.2);
+}
+.span {
+  font-size: 15px;
+}
+.bor {
+  border-radius: 30px;
+  height: 8px;
+}
+.bg-s{
+  background-color: #eeeeee;
+}
+.bor-o{
+  border-radius: 20px 20px 00px 00px;
 }
