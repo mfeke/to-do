@@ -1,0 +1,39 @@
+.text {
+  font-size: 40px;
+  font-weight: bold;
+}
+.main {
+  height: 247px;
+}
+.other {
+  height: 70px;
+}
+.btn{
+    width: 50px;
+    height: 50px;
+}
+.font {
+  font-size: 25px;
+  font-weight: bold;
+}
+.colour-0 {
+  background-color: #f5f5f5;
+}
+.colour-1 {
+  background-color: #e0e0e0;
+}
+.colour-2 {
+  background-color: #c0c0c0;
+}
+.colour-3 {
+  background-color: #a9a9a9;
+}
+.colour-5 {
+  background-color: #808080;
+}
+.colour-6 {
+  background-color: #505050;
+}
+.colour-4 {
+  background-color: #8f8e8e;
+}
