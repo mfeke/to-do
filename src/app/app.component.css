@@ -8,9 +8,23 @@
 .other {
   height: 70px;
 }
+.icon-edit{
+    width: 50px;
+    height: 50px;
+}
+.bor{
+    border-radius: 30px;
+}
+.header{
+    border: 0px !important;
+}
 .icon-container{
     width: 40px;
     height: 40px;
+}
+.modal-content{
+    border-radius:30px 30px 0px 0px;
+    height: 90%;
 }
 .round{
     border-radius: 10px 0px 0px 10px;
