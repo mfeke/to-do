@@ -1,0 +1,11 @@
+.header-text {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.star{
+    color: gold;
+}
+.bor{
+    border-radius: 0px !important;
+}
