@@ -1,16 +1,9 @@
 .bg-main {
   background-color: orangered;
 }
-.img-logo {
-  /* width: 110px; */
-  height: 50px;
-}
-.hei{
-    height: 50px;
-}
-.bg-btn{
-    height: 80px;
-}
+
+
+
 .bg-url {
   background-image: url("https://i.postimg.cc/g2J9v3bn/slider3.jpg");
   background-repeat: no-repeat;
