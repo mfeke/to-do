@@ -2,7 +2,9 @@
   color: orangered;
   font-size: 15px;
 }
-
+.underline{
+  text-decoration: underline;
+}
 .bg-url {
   background-image: url("https://www.nejeni.co.za/assets/images/about-banner2.jpg");
   height: 250px;
@@ -10,6 +12,9 @@
   background-position: start;
   background-size: cover;
   background-color: #333333;
+}
+.bor{
+  border: orangered  1px solid !important;
 }
 .bg-navy{
 background-color: #0E3346;
