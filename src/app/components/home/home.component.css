@@ -1,5 +1,6 @@
 .text-or {
   color: orangered;
+  font-size: 15px;
 }
 
 .bg-url {
@@ -9,6 +10,9 @@
   background-position: start;
   background-size: cover;
   background-color: #333333;
+}
+.bg-navy{
+background-color: #0E3346;
 }
 .w-60 {
   width: 80%;
