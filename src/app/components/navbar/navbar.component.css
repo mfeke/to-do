@@ -1,3 +1,9 @@
-.container-logo {
-  width: 150px;
+img{
+  height: 45px;
+}
+.container-img{
+  background-color: orangered;
+}
+.all{
+  height: 65px;
 }
