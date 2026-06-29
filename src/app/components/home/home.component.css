@@ -2,6 +2,10 @@
   color: orangered;
   font-size: 15px;
 }
+.span{
+    font-size: 15px;
+
+}
 .underline{
   text-decoration: underline;
 }
@@ -10,6 +14,14 @@
   height: 250px;
   background-repeat: no-repeat;
   background-position: start;
+  background-size: cover;
+  background-color: #333333;
+}
+.bg-img {
+  background-image: url("https://i.postimg.cc/TYsgQjKX/477970935-1168417618622839-2091920488066747341-n.jpg");
+  height: 350px;
+  background-repeat: no-repeat;
+  background-position: center center;
   background-size: cover;
   background-color: #333333;
 }
@@ -41,4 +53,6 @@ background-color: #0E3346;
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
   font-size: 35px;
+    line-height: 35px;
+
 }
