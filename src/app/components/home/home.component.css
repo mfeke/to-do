@@ -9,6 +9,9 @@
   height: 200px;
   background-color: #333333;
 }
+.bg-main{
+  background-color: orangered;
+}
 .bebas {
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
@@ -24,7 +27,13 @@
   font-size: 18px;
   text-decoration: none;
 }
+.bor{
+  border-radius: 0px !important;
+}
+input::placeholder{
+  color: black;
 
+}
 .span {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
