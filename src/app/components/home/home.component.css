@@ -2,11 +2,27 @@
   color: orangered;
   font-size: 15px;
 }
-.span{
-    font-size: 15px;
-
+.span {
+  font-size: 15px;
 }
-.underline{
+.para {
+font-family: "Roboto", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100
+}
+.box-s{
+height: 165px;
+width: 165px;
+}
+.p{
+  font-size: 14px;
+}
+.number{
+font-size: 45px;
+}
+.underline {
   text-decoration: underline;
 }
 .bg-url {
@@ -25,16 +41,16 @@
   background-size: cover;
   background-color: #333333;
 }
-.bor{
-  border: orangered  1px solid !important;
+.bor {
+  border: orangered 1px solid !important;
 }
 .bebas {
   font-family: "Bebas Neue", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
-.bg-navy{
-background-color: #0E3346;
+.bg-navy {
+  background-color: #0e3346;
 }
 .w-60 {
   width: 80%;
@@ -53,6 +69,8 @@ background-color: #0E3346;
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
   font-size: 35px;
-    line-height: 35px;
-
+  line-height: 35px;
+}
+.bg-main{
+  background-color: orangered;
 }
