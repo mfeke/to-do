@@ -74,3 +74,13 @@ font-size: 45px;
 .bg-main{
   background-color: orangered;
 }
+.img-new{
+  background-image: url("https://www.nejeni.co.za/assets/images/project/nejeni-project-completed-25.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #333333;
+}
+.btn{
+  border-radius: 0px !important;
+}
