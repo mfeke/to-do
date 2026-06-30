@@ -22,7 +22,9 @@
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
   font-size: 18px;
+  text-decoration: none;
 }
+
 .span {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
