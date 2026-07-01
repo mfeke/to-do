@@ -18,6 +18,9 @@
 .over-hidden {
   overflow: hidden;
 }
+.bg-main{
+  background:orangered;
+}
 .ro {
   transform: rotate(85deg);
 }
@@ -25,10 +28,26 @@
   color: orangered;
   font-size: 15px;
 }
-.bebas {
+.bebas-1 {
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
   font-size: 48px;
   line-height: 35px;
+  z-index: 1;
+}
+.img-new{
+  background-image: url("https://www.nejeni.co.za/assets/images/project/nejeni-project-6.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-color: #333333;
+}
+.box-s{
+height: 250px;
+width: 250px;
+}
+.bebas {
+  font-family: "Bebas Neue", sans-serif;
+  font-style: normal;
   z-index: 1;
 }
