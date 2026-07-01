@@ -1,42 +1,32 @@
-.btn {
-  border-radius: 0px !important;
+.build {
+  font-family: "Impact", "Arial Black", sans-serif;
+  font-size: 50px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: transparent;
+  -webkit-text-stroke: 1px #cccccc;
+  text-shadow: none;
+  text-transform: uppercase;
+  position: relative;
+  left: -8px;
+  width: 150%;
+  height: 48px;
+  z-index:-1;
 }
-.bg-url {
-  background-image: url("https://www.nejeni.co.za/assets/images/project/nejeni-project-completed-29.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  height: 200px;
-  background-color: #333333;
+.over-hidden {
+  overflow: hidden;
 }
-.bg-main{
-  background-color: orangered;
+.ro {
+  transform: rotate(85deg);
+}
+.text-or {
+  color: orangered;
+  font-size: 15px;
 }
 .bebas {
   font-family: "Bebas Neue", sans-serif;
   font-style: normal;
-  font-size: 45px;
+  font-size: 48px;
   line-height: 35px;
-}
-.bg-b {
-  background-color: rgb(0, 0, 0, 0.5);
-}
-.para {
-  font-family: "Bebas Neue", sans-serif;
-  font-style: normal;
-  font-size: 18px;
-  text-decoration: none;
-}
-.bor{
-  border-radius: 0px !important;
-}
-input::placeholder{
-  color: black;
-
-}
-.span {
-  font-family: "Roboto", sans-serif;
-  font-optical-sizing: auto;
-  font-style: normal;
-  font-variation-settings: "wdth" 100;
+  z-index: 1;
 }
