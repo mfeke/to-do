@@ -1,6 +1,8 @@
 .build {
-  font-family: "Impact", "Arial Black", sans-serif;
-  font-size: 50px;
+  /* font-family: "Impact", "Arial Black", sans-serif; */
+  font-family: "Bebas Neue", sans-serif;
+
+  font-size: 60px;
   font-weight: 400;
   letter-spacing: 1px;
   color: transparent;
@@ -10,8 +12,8 @@
   position: relative;
   left: -8px;
   width: 150%;
-  height: 48px;
-  z-index:-1;
+  height:55px;
+  z-index: -1;
 }
 .over-hidden {
   overflow: hidden;
