@@ -24,6 +24,9 @@
 .ro {
   transform: rotate(85deg);
 }
+.line {
+  border-top: 1px solid orangered;
+}
 .text-or {
   color: orangered;
   font-size: 15px;
